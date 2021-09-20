@@ -1,0 +1,10 @@
+*.log
+*.aux
+*~
+#*
+*.pdf
+CANDELS/
+ds9
+.ipynb_checkpoints/
+backup/
+writeup/
